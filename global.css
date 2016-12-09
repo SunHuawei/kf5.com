@@ -21,11 +21,11 @@ body {
 }
 
 a{
- color:#484848;   
+ color:#484848;
 }
 
 a:hover{
- color:#1ab0a4;   
+ color:#1ab0a4;
 }
 
 code,
@@ -281,11 +281,7 @@ main {
 .search-box {
   height: 150px;
   text-align: center;
-  background-image: url(../images/jing-bg.png),url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/PjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB2aWV3Qm94PSIwIDAgMSAxIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJub25lIj48bGluZWFyR3JhZGllbnQgaWQ9Imxlc3NoYXQtZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMCUiPjxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMwMGJlOTUiIHN0b3Atb3BhY2l0eT0iMSIvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAwYmFlMSIgc3RvcC1vcGFjaXR5PSIxIi8+PC9saW5lYXJHcmFkaWVudD48cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSJ1cmwoI2xlc3NoYXQtZ2VuZXJhdGVkKSIgLz48L3N2Zz4=);
-  background-image: url(../images/jing-bg.png), -webkit-linear-gradient(left, #00be95 0%, #00bae1 100%);
-  background-image: url(../images/jing-bg.png), -moz-linear-gradient(left, #00be95 0%, #00bae1 100%);
-  background-image: url(../images/jing-bg.png), -o-linear-gradient(left, #00be95 0%, #00bae1 100%);
-  background-image: url(../images/jing-bg.png), linear-gradient(to right, #00be95 0%, #00bae1 100%);
+  background: #00A4A8;
 }
 .search-box .search {
   padding-top: 50px;
@@ -1810,7 +1806,7 @@ body .question-bbs-top-nav a:hover {
 
 body .new-question-post {
   background-color: #1ab0a4;
- 
+
 }
 
 body .new-question-post:hover {
@@ -1874,16 +1870,16 @@ body .user-center-nav .active>a {
 
 /*---liwen---*/
 body{
- font-family: 'PingFang SC', "Hiragino Sans GB", "Microsoft YaHei"!important;   
+ font-family: 'PingFang SC', "Hiragino Sans GB", "Microsoft YaHei"!important;
 }
 .category-guide-grid li a{
- color:#3c3c3c;   
+ color:#3c3c3c;
 }
 .category-guide-grid li a:before{
        content: " ";
     display: block;
     width: 95px;
-    height: 95px; 
+    height: 95px;
     margin: 0 auto 15px auto;
 }
 
@@ -1895,7 +1891,7 @@ background: url("https://www.kf5.com/images/gfx/enter.png") center center no-rep
 background: url("https://www.kf5.com/images/gfx/help.png") center center no-repeat;
 }
 
- 
+
 .category-25667 a:before{
  background: url("https://www.kf5.com/images/gfx/float.png") center center no-repeat;
 }
@@ -1904,16 +1900,15 @@ background: url("https://www.kf5.com/images/gfx/help.png") center center no-repe
 background: url("https://www.kf5.com/images/gfx/kbs.png") center center no-repeat;
 }
 
- 
- 
+
+
 a:hover{
-    text-decoration: none!important;   
+    text-decoration: none!important;
 }
 
 .widget-column li a:hover{
-    color: #1ab0a4;!important;   
+    color: #1ab0a4;!important;
 }
-
 
 
 
